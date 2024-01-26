@@ -6,17 +6,17 @@ sidebar_position: 1
 
 Welcome to Clanny! This guide will tell you how to configure Clanny
 
-## The first part: `c!setup`
+## The first part: `/setup`
 
-In order to be able to use Clanny you have to run `c!setup` first.
+In order to be able to use Clanny you have to run `/setup` first.
 
-This the syntax is: `c!setup [Group ID]`
+This the syntax is: `/setup [Group ID]`
 
 If your group link is https://www.roblox.com/groups/7370273/Clanny-Systems#!/about your group ID would be `7370273`
 
 ### Possible issues
 
-If the bot says you need to be verified, run `c!verify` and try again.
+If the bot says you need to be verified, run `/verify` **WITH CLANNY** and try again.
 
 If the bot says you need to own the Roblox group, you used your group link instead of group ID, or you dont own that group
 
