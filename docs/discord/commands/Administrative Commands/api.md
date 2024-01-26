@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# `c!api`
+# `/api`
 
 This command will provide you with the API key required to use the API.
 
